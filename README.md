@@ -2,7 +2,7 @@
 
 Repo assoscciated with: 
 
-Rethinking Crowd Sourcing for Semantic Similarity
+Rethinking Crowd Sourcing for Semantic Similarity <br>
 Shaul Solomon, Adam Cohn, Hernan Rosenblum, Chezi Hershkovitz, and
 Ivan P. Yamshchikov
 
